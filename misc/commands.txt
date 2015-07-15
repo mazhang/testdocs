@@ -1,0 +1,3 @@
+systemd-analyze - Analyze system boot-up performance
+eg:
+    systemd-analyze blame
