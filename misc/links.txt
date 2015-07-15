@@ -1,0 +1,12 @@
+Systemd:
+  http://freedesktop.org/wiki/Software/systemd/
+  https://wiki.archlinux.org/index.php/Systemd
+
+Udev:
+  https://wiki.archlinux.org/index.php/Udev
+
+Kernel_parameters:
+  https://wiki.archlinux.org/index.php/Kernel_parameters
+
+Fstab:
+  https://wiki.archlinux.org/index.php/Fstab
