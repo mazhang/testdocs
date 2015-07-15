@@ -10,3 +10,7 @@ Kernel_parameters:
 
 Fstab:
   https://wiki.archlinux.org/index.php/Fstab
+
+/dev/random:
+  https://en.wikipedia.org/wiki//dev/random
+  cat /proc/sys/kernel/random/entropy_avail
